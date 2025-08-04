@@ -1,8 +1,4 @@
-# CampusTrackr
 
----
-
-### ✅ Root `README.md` for CampusTrackr
 
 ````markdown
 # CampusTrackr 🎓
