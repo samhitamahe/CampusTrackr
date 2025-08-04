@@ -1,13 +1,14 @@
 
 # CampusTrackr 🎓
-````markdown
-
 
 CampusTrackr is a full-stack college data management system built with the MERN stack (MongoDB, Express, React, Node.js).
 
 > This repo includes both the frontend and backend directories.
 
 ---
+
+````markdown
+
 
 ## 🔧 Project Setup
 
