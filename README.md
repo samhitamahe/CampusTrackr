@@ -7,10 +7,9 @@ This repo includes both the frontend and backend directories.
 
 ---
 
-````markdown
-
-
 ## 🔧 Project Setup
+
+````markdown
 
 ### 1. Clone the Repository
 
