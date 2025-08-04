@@ -1,7 +1,7 @@
 
-
-````markdown
 # CampusTrackr 🎓
+````markdown
+
 
 CampusTrackr is a full-stack college data management system built with the MERN stack (MongoDB, Express, React, Node.js).
 
