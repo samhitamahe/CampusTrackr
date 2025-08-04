@@ -1,7 +1,5 @@
 # CampusTrackr
 
-Here’s a clear and organized `README.md` file for your **CampusTrackr** project — split into two parts: **API (Backend)** and **Frontend**.
-
 ---
 
 ### ✅ Root `README.md` for CampusTrackr
@@ -93,14 +91,14 @@ baseURL: "http://localhost:3500";
 
 ### 🔑 HOD
 
-* **Username:** Moriah
-* **Password:** Moriah123
+* **Username:** samm
+* **Password:** samm
 * Can: Do everything a teacher can + Approve Teachers, Add Papers
 
 ### 🔑 Student
 
-* **Username:** Bret
-* **Password:** Bret
+* **Username:** akshi
+* **Password:** akshi
 * Or register a new student with any first name
 * Can: View Notes, Attendance, Internal Marks, Join/Leave Papers
 
@@ -123,39 +121,9 @@ baseURL: "http://localhost:3500";
 
 ---
 
-## 🔜 Roadmap
-
-* [ ] Add Admin Panel
-* [ ] Cache & Paginate Queries
-* [ ] Export Student Reports
-
----
-
 ## 📞 Contact
 
 Feel free to raise issues or contact for feedback via LinkedIn / Email.
 Please be kind and constructive. 😊
 
 ---
-
-## 📄 License
-
-MIT
-
----
-
-## 🌐 Demo
-
-Soon to be hosted on Render...
-
----
-
-```
-
-Let me know if you’d like:
-- A more **developer-focused** vs **user-focused** version
-- Separate READMEs inside `api-main/` and `frontend/`
-- A deploy guide (Render/Netlify/Vercel)
-
-I can customize it based on your goals for the project (e.g., demo for recruiters, open-source showcase, team project).
-```
