@@ -9,9 +9,9 @@ This repo includes both the frontend and backend directories.
 
 ## 🔧 Project Setup
 
-````markdown
-
 ### 1. Clone the Repository
+
+````markdown
 
 ```bash
 git clone https://github.com/samhitamahe/CampusTrackr.git
