@@ -24,6 +24,7 @@
 // config/corsOptions.js
 const allowedOrigins = [
   "http://localhost:3000", // Your frontend
+  'https://campus-trackr.vercel.app',
   // "http://127.0.0.1:3000",
 ];
 
